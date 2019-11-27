@@ -25,5 +25,3 @@ print(weekday.index('thu'))
 
 # len 取得 list 長度
 print(len(weekday))
-
-# 
